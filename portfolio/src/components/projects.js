@@ -25,7 +25,7 @@ function Projects() {
                     <img src={picture2}/>
                 </div>
                 <h2>An application to help you learn about the stock market while practicing your trading skills without the risk of losing real money in your learning process. 
-                <a href="https://broday2-0d4c196dc158.herokuapp.com/"> Visit the application.</a>
+                <a href="https://play-trade-3e0a6365bb54.herokuapp.com/login"> Visit the application.</a>
                 <a href="https://github.com/Project2Team2/Play-Trade"> Visit the repository.</a>
                 </h2>
             </div>
@@ -36,7 +36,7 @@ function Projects() {
                     <img src={picture3}/>
                 </div>
                 <h2>An application to encourage people to get out and meet new people who share the same interests as you to help create friendships. 
-                <a href=""> Visit the application.</a>
+                <a href="https://broday2-0d4c196dc158.herokuapp.com/"> Visit the application.</a>
                 <a href="https://github.com/Project3Team2BroDates/broday"> Visit the repository.</a>
                 </h2>
             </div>
